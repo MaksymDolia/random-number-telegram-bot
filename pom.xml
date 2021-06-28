@@ -11,6 +11,7 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
+        <jar.finalName>random-number-telegram-bot</jar.finalName>
         <!-- deps versions -->
         <telegrambots.version>5.2.0</telegrambots.version>
         <logging.versions>2.7</logging.versions>

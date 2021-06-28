@@ -1,0 +1,1 @@
+worker: java -jar target/random-number-telegram-bot.jar
